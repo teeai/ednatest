@@ -13,7 +13,7 @@ public class Staff extends Income{
     //data member
     private String name;
     private String id;
-    private Income income;
+    
     private double totalnexincome;
     
     //constructor
